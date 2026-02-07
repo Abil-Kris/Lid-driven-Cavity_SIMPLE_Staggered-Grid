@@ -8,7 +8,7 @@ I tried the code with nu_f = 0.01 to 0.001, rho_f = 1, v is set to 1, and Length
 
 U may change the parameters and check for correctness
 
-I have uploaded python code to visualize the result - Used Chatgpt for that
+I have uploaded Python code to visualize the result - Used Chatgpt for that - https://jupyter.org/try-jupyter/lab/
 
 Feel free 
-to raise issue if u face some problem
+To raise issue if u face some problem
